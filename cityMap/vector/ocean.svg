@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3714.46 3023.76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1857.23" y1="3023.76" x2="1857.23" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset=".82" stop-color="#bbe0e0" stop-opacity=".67"/>
+      <stop offset=".93" stop-color="#b4d9d9" stop-opacity=".69"/>
+      <stop offset=".97" stop-color="#9dc2c2" stop-opacity=".78"/>
+      <stop offset=".99" stop-color="#749999" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#648989"/>
+    </linearGradient>
+  </defs>
+  <g id="ocean">
+    <rect class="cls-1" width="3714.46" height="3023.76"/>
+  </g>
+</svg>
