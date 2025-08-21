@@ -1,0 +1,2 @@
+# seminarios
+consolidating seminarios lore
