@@ -1,3 +1,9 @@
 @charset "utf-8";
 /* CSS DOCUMENT */
 
+.header img {
+float: left;
+}
+.header h1 {
+position: relative;
+}
